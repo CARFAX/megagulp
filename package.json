@@ -1,0 +1,19 @@
+{
+  "name": "megagulp",
+  "version": "0.0.0",
+  "description": "A gulp file made to demonstrate different tasks that can be achieved via gulp.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@stash:7999/fcf/megagulp.git"
+  },
+  "author": "FCF Dev Team",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-clean": "^0.3.1"
+  }
+}
