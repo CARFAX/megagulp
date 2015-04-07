@@ -21,7 +21,9 @@
   Check out gulpfiles/[yourExampleNameHere]/gulpfile.js
   
   #List of examples
+  * **cache-busting** - tricks browser to avoid cache-check for templates.
   * **clean** - cleans out a folder, usually preemptively.
   * **concat** - concats files together to boost performance.
   * **minify** - minifies code to boost performance.
   * **rename** - helps you rename a file via gulp.
+  * **sass** - compiles your sass for you! Please install ruby and gem install sass.
