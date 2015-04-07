@@ -2,7 +2,7 @@
   Module: 
         Cache-busting
   Desc: 
-        Tricks browser into dodging the cache-check for a certian file.
+        Tricks browser into dodging the cache-check for a certain file.
         Pretty cool stuff actually.
   Deps:
         gulp
