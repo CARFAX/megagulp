@@ -7,23 +7,23 @@
      |_|  |_|______\_____/_/    \_\_____|\____/|______|_|     
                                                   
                                                   
-  #What is MEGAGULP?
-  MEGAGULP is a gulpfile designed to give examples of how common gulp tasks can
-  be written. Each section is commented and is intended to be lean. This can
-  be used to look up a way to do something via gulp and should be treated like
-  a library.
+#What is MEGAGULP?
+MEGAGULP is a gulpfile designed to give examples of how common gulp tasks can
+be written. Each section is commented and is intended to be lean. This can
+be used to look up a way to do something via gulp and should be treated like
+a library.
   
-  I can not stress enough that there is no reason to include this gulp file as
-  your project's gulpfile. You should, however, be able to find & copy/paste 
-  and certain tasks.                                                        
+I can not stress enough that there is no reason to include this gulp file as
+your project's gulpfile. You should, however, be able to find & copy/paste 
+and certain tasks.                                                        
                                                           
-  ##Where are the examples?
-  Check out gulpfiles/[yourExampleNameHere]/gulpfile.js
+##Where are the examples?
+Check out gulpfiles/[yourExampleNameHere]/gulpfile.js
   
-  #List of examples
-  * **cache-busting** - tricks browser to avoid cache-check for templates.
-  * **clean** - cleans out a folder, usually preemptively.
-  * **concat** - concats files together to boost performance.
-  * **minify** - minifies code to boost performance.
-  * **rename** - helps you rename a file via gulp.
-  * **sass** - compiles your sass for you! Please install ruby and gem install sass.
+#List of examples
+* **cache-busting** - tricks browser to avoid cache-check for templates.
+* **clean** - cleans out a folder, usually preemptively.
+* **concat** - concats files together to boost performance.
+* **minify** - minifies code to boost performance.
+* **rename** - helps you rename a file via gulp.
+* **sass** - compiles your sass for you! Please install ruby and gem install sass.
