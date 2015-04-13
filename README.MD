@@ -14,14 +14,14 @@ These examples should be used to look up a way to do something via gulp and shou
 
 ##Where are the examples?
 
-* **[cache-busting/](cache-busting)** - tricks browser to avoid cache-check for templates
-* **[clean/](clean)** - cleans out a folder, usually preemptively
-* **[concat/](concat)** - concatinates files together to boost performance
-* **[minify/](minify)** - minifies code to boost performance
-* **[rename/](rename)** - helps you rename a file via gulp
-* **[sass/](sass)** - compiles your sass for you
+* **[cache-busting/](cache-busting/)** - tricks browser to avoid cache-check for templates
+* **[clean/](clean/)** - cleans out a folder, usually preemptively
+* **[concat/](concat/)** - concatinates files together to boost performance
+* **[minify/](minify/)** - minifies code to boost performance
+* **[rename/](rename/)** - helps you rename a file via gulp
+* **[sass/](sass/)** - compiles your sass for you
 
-Check out other examples in the [gulpfiles folder](gulpfiles).
+Check out other examples in the [gulpfiles/ folder](gulpfiles/).
 
 #Contributing
 
