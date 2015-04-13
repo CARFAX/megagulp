@@ -8,22 +8,29 @@
                                                   
                                                   
 #What is MEGAGULP?
-MEGAGULP is a gulpfile designed to give examples of how common gulp tasks can
-be written. Each section is commented and is intended to be lean. This can
-be used to look up a way to do something via gulp and should be treated like
-a library.
-  
-I can not stress enough that there is no reason to include this gulp file as
-your project's gulpfile. You should, however, be able to find & copy/paste 
-and certain tasks.                                                        
-                                                          
+MEGAGULP is a collection of gulpfiles designed to give examples of how common gulp tasks can be written.
+Each example is commented and is intended to be lean.
+These examples should be used to look up a way to do something via gulp and should not be treated like a library.
+
 ##Where are the examples?
-Check out gulpfiles/[yourExampleNameHere]/gulpfile.js
-  
-#List of examples
-* **cache-busting** - tricks browser to avoid cache-check for templates.
-* **clean** - cleans out a folder, usually preemptively.
-* **concat** - concats files together to boost performance.
-* **minify** - minifies code to boost performance.
-* **rename** - helps you rename a file via gulp.
-* **sass** - compiles your sass for you! Please install ruby and gem install sass.
+
+* **[cache-busting/](cache-busting)** - tricks browser to avoid cache-check for templates
+* **[clean/](clean)** - cleans out a folder, usually preemptively
+* **[concat/](concat)** - concatinates files together to boost performance
+* **[minify/](minify)** - minifies code to boost performance
+* **[rename/](rename)** - helps you rename a file via gulp
+* **[sass/](sass)** - compiles your sass for you
+
+Check out other examples in the [gulpfiles folder](gulpfiles).
+
+#Contributing
+
+Contributors welcome! Just follow the typical ["Fork & Pull"](https://help.github.com/articles/using-pull-requests/) GitHub collaborative model.
+
+If you have ideas or questions just [open an issue](https://github.com/CARFAX/megagulp/issues/new).
+
+#Author and License Info
+
+CARFAX First Class Frontend Team
+
+[MIT License](LICENSE)
