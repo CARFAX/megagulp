@@ -11,7 +11,7 @@
     "url": "ssh://git@github.com:CARFAX/megagulp.git"
   },
   "author": "CARFAX First Class Frontend Team",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "gulp": "^3.8.11",
     "gulp-clean": "^0.3.1"
